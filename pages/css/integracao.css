@@ -1,0 +1,14 @@
+/* Aqui o css está sendo aplicado apenas nas filhas da classe integracao */
+
+.integracao .vermelha {
+    color :rgb(201, 32, 32)
+}
+
+.integracao .azul {
+    color: blue;
+}
+
+.integracao .branca {
+    background-color: black;
+    color: white;
+}
